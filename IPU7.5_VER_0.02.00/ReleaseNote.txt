@@ -1,4 +1,0 @@
-2026/07/01 [VER_0.02.00]
-* Initial version
-* Add otocam222 & otocam223.
-
